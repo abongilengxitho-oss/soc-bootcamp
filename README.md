@@ -60,4 +60,4 @@ Hands-on Linux SOC labs using Ubuntu WSL2.
 - Linux log analysis: auth.log, syslog, btmp, wtmp, bash_history
 - Incident documentation & timeline reconstruction
 - Log integrity validation and tampering detection
-- Evidence management with
+- Evidence management with Github
